@@ -3,5 +3,5 @@
 
  '''
    descreva o que precisa instalar
-   node app
+   node app.js
  '''
